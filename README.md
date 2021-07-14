@@ -22,7 +22,7 @@ Drop me a mail on akshay.kaushik9@gmail.com
 
 ## :wrench: Technologies
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![Python](https://img.icons8.com/color/30/000000/python.png)![Django](https://img.icons8.com/color/48/000000/django.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![Next Js](https://d1ra4fnlkp6spo.cloudfront.net/iconduck/image/upload/w_30,h_30,c_fit/f_png/e_colorize:0,co_rgb:000000/w_30,h_30,c_lpad/e_trim:1/w_30,h_30,c_fit/s3.prod/assets.00/asstl49g5eyk)![Github](https://img.icons8.com/material-outlined/30/github.png)![Material UI](https://img.icons8.com/color/30/000000/material-ui.png)![Git](https://img.icons8.com/color/30/000000/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)![Python](https://img.icons8.com/color/30/000000/python.png)![Django](https://img.icons8.com/color/48/000000/django.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![Next Js](https://d1ra4fnlkp6spo.cloudfront.net/iconduck/image/upload/w_30,h_30,c_fit/f_png/e_colorize:0,co_rgb:000000/w_30,h_30,c_lpad/e_trim:1/w_30,h_30,c_fit/s3.prod/assets.00/asstl49g5eyk)![Github](https://img.icons8.com/material-outlined/30/github.png)![Material UI](https://img.icons8.com/color/30/000000/material-ui.png)![Git](https://img.icons8.com/color/30/000000/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 
 ---
 
