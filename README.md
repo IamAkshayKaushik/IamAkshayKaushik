@@ -21,7 +21,7 @@ Drop me a mail on akshay.kaushik9@gmail.com
 
 ## :wrench: Technologies
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![Python](https://img.icons8.com/color/32/000000/python.png)![Django](https://img.icons8.com/color/48/000000/django.png)![Tensorflow](https://img.icons8.com/color/32/000000/tensorflow.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![Next Js](https://d1rs1tqcxzgl1z.cloudfront.net/iconduck/image/upload/w_32,h_32,c_fit/f_png/e_colorize:0,co_rgb:000000/w_32,h_32,c_lpad/e_trim:1/w_32,h_32,c_fit/s3.prod/assets.00/asstl49g5eyk)![Github](https://img.icons8.com/material-outlined/30/github.png)![Material UI](https://img.icons8.com/color/30/000000/material-ui.png)![Git](https://img.icons8.com/color/30/000000/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)![Python](https://img.icons8.com/color/32/000000/python.png)![Django](https://img.icons8.com/color/48/000000/django.png)![Tensorflow](https://img.icons8.com/color/32/000000/tensorflow.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![Next Js](https://d1rs1tqcxzgl1z.cloudfront.net/iconduck/image/upload/w_32,h_32,c_fit/f_png/w_32,h_32,c_lpad/e_trim:1/w_32,h_32,c_fit/s3.prod/assets.00/asstl49g5eyk)![Github](https://img.icons8.com/material-outlined/30/github.png)![Material UI](https://img.icons8.com/color/30/000000/material-ui.png)![Git](https://img.icons8.com/color/30/000000/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 
 ---
 
