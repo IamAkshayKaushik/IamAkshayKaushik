@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Tensorflow.
 - 💬  Ask me about anything related to Python/Django/Javascript/NextJs
 - 💞️ I’m looking to collaborate on Django, React and NextJs.
-- 📫 How to reach me [akshaykaushiik.eu.org](https://akshaykaushiik.eu.org)
+- 📫 How to reach me [akshaykaushiik.eu.org](https://akshaykaushik.eu.org)
 
 Drop me a mail on akshay.kaushik9@gmail.com
 
