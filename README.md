@@ -1,5 +1,5 @@
   <div align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?font=Helvetica&size=32&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Akshay+Kaushik;I'm+A+Full-Stack+Developer](https://readme-typing-svg.herokuapp.com?font=Helvetica&size=32&duration=2500&pause=500&color=4D4D4D&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Akshay+Kaushik;I'm+A+Full-Stack+Developer" alt="Headline"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=32&duration=2500&pause=500&color=4D4D4D&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Akshay+Kaushik;I'm+A+Full-Stack+Developer" alt="Headline"/>
   <br>
 
 
