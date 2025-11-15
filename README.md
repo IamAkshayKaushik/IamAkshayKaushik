@@ -28,10 +28,10 @@
 ## 🌱 Currently Exploring
 
   - 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Building server-side applications with Django, a powerful Python web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
+  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IamAkshayKaushik&show_icons=true&locale=en&layout=compact" alt="IamAkshayKaushik" />
