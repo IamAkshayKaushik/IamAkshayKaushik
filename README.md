@@ -1,38 +1,98 @@
-  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=32&duration=2500&pause=500&color=4D4D4D&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Akshay+Kaushik;I'm+A+Full-Stack+Developer" alt="Headline"/>
-  <br>
+ <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Hey%2C+I'm+Akshay+Kaushik+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Python+%7C+Django+%7C+React+%7C+Next.js;Building+Ideas+Into+Digital+Products" alt="Typing SVG" />
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AkshaykKaushik) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamakshaykaushik/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXgvEwogFnrduVGIMRs8Q8Q) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/IamAkshayKaushik/) 
+### Full-Stack Developer | Python Enthusiast | Problem Solver
 
-![IamAkshayKaushik's Stats](https://github-readme-stats.vercel.app/api?username=IamAkshayKaushik&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+*Turning ideas into scalable, reliable and meaningful digital experiences.*
+
+<br/>
+
+[![Twitter](https://img.shields.io/badge/Twitter-161B22?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/AkshaykKaushik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/iamakshaykaushik/)
+[![YouTube](https://img.shields.io/badge/YouTube-161B22?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCXgvEwogFnrduVGIMRs8Q8Q)
+[![Facebook](https://img.shields.io/badge/Facebook-161B22?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/IamAkshayKaushik/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=firefox&logoColor=58A6FF)](https://akshaykaushik.dev)
+
 </div>
 
 ---
-- 👀 I’m interested in Web Development and Machine Learning.
-- 🌱 I’m currently learning Tensorflow.
-- 💬 Ask me anything related to Python/Django/Javascript/NextJs
-- 💞️ I’m looking to collaborate on Django, React and NextJs projects.
-- 📫 How to reach me: [@AkshaykKaushik on Twitter](https://twitter.com/AkshaykKaushik) and [akshaykaushik.dev](https://akshaykaushik.dev)
-  Drop me a mail at akshay.kaushik9@gmail.com
 
+## `$ whoami`
 
-<h2>Technologies <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"></h2>  
+I'm **Akshay Kaushik**, a Full-Stack Developer passionate about building web applications, exploring emerging technologies, and solving real-world problems through code.
 
+I enjoy working across the entire development lifecycle — from designing backend architecture and APIs to building interactive frontend experiences.
 
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,django,react,redux,nextjs,wordpress,redis,rabbitmq,cloudflare,workers,mysql,git,github,postman,vscode,selenium,html,tailwindcss,docker,kafka,devto)](https://www.linkedin.com/in/iamakshaykaushik/)
+- **Interests:** Web Development, Machine Learning & Software Engineering.
+- **Currently exploring:** TensorFlow and Machine Learning.
+- **Backend:** Python, Django and Redis.
+- **Frontend:** JavaScript, React and Next.js.
+- **Collaboration:** Open to Django, React and Next.js projects.
+- **Ask me about:** Python, Django, JavaScript and Next.js.
 
-## 🌱 Currently Exploring
+📬 **Let's connect:** [akshaykaushik.dev](https://akshaykaushik.dev) · [Email](mailto:akshay.kaushik9@gmail.com)
 
-  - 🚀 Learning Full Stack Web Development
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+---
+
+## ⚡ Tech Stack & Tools
+
+*Technologies I use to build, deploy and maintain applications.*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IamAkshayKaushik&show_icons=true&locale=en&layout=compact" alt="IamAkshayKaushik" />
+
+### Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=python,javascript,django,react,redux,nextjs,html,tailwindcss,wordpress" />
+
+### Databases, Messaging & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,rabbitmq,kafka,docker,cloudflare,workers" />
+
+### Development & Testing Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,selenium" />
+
+</div>
+
+---
+
+## 🌱 What I'm Exploring
+
+| Area | Current Focus |
+|---|---|
+| Backend Engineering | Building robust server-side applications with Django |
+| Databases | PostgreSQL and scalable database management |
+| Frontend Development | React, Redux and modern Next.js |
+| UI Development | Responsive interfaces with Tailwind CSS |
+| Machine Learning | Exploring TensorFlow and ML fundamentals |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=IamAkshayKaushik&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAkshayKaushik&layout=compact&theme=github_dark&hide_border=true" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=IamAkshayKaushik&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Build. Learn. Improve. Repeat.
+
+*Always curious. Always building.*
+
+[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-Visit_Now-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akshaykaushik.dev)
+
+<sub>Thanks for visiting my GitHub profile!</sub>
+
 </div>
