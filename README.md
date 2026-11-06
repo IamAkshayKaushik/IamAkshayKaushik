@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=Hey%2C+I'm+Akshay+Kaushik+%F0%9F%91%8B;Full-Stack+Developer+%7C+GenAI+in+Production;Python+%7C+Django+%7C+React+%7C+Next.js;Shipping+AI-powered+marketplace+features" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=Hey%2C+I'm+Akshay+Kaushik+%F0%9F%91%8B;AI+Full-Stack+Developer;Python+%7C+Django+%7C+React+%7C+Next.js;Shipping+AI-powered+marketplace+features" alt="Typing SVG" />
 
-### Full-Stack Developer | GenAI in Production | Problem Solver
+### AI Full-Stack Developer
 
 *Turning ideas into scalable products - including AI search, agents, and real-time systems.*
 
@@ -20,7 +20,7 @@
 
 ## `$ whoami`
 
-I'm **Akshay Kaushik**, a Full-Stack Developer who ships end-to-end web products - from Backend APIs and async workers to React/Next.js UIs - and production GenAI features.
+I'm **Akshay Kaushik**, an AI Full-Stack Developer who ships end-to-end web products - from Backend APIs and async workers to React/Next.js UIs - and production GenAI features.
 
 I work across the full lifecycle: architecture, APIs, data models, background jobs, and interactive frontends.
 
@@ -57,19 +57,7 @@ Shipped `search-categories` with **Vertex AI / Gemini embeddings** + **TF-IDF** 
 - Dual auth: Vertex AI service account or Gemini Developer API
 
 ### 3. Full-stack marketplace systems
-Beyond AI: payments & ledger, chat & video consultations, provider ranking, admin RBAC, dashboards, WhatsApp/email notifications - Django + Next.js + Celery.
-
-<details>
-<summary><b>Resume-style highlights</b></summary>
-
-<br/>
-
-- Production **tool-calling GenAI agent** for personalized service recommendations with Celery debounce and DB-backed memory  
-- **Hybrid semantic search** (Gemini embeddings + TF-IDF + optional LLM rerank) for category discovery  
-- Hardened LLM output with **grounding, validation, and PII scrubbing** so recommendations stay catalog-true and privacy-safe  
-- Event pipeline for personalization telemetry → async rebuild → low-latency dashboard reads  
-
-</details>
+Beyond AI: payments & ledger, chat & video consultations, provider ranking, admin RBAC, dashboards, WhatsApp/email notifications.
 
 ---
 
@@ -115,9 +103,7 @@ Beyond AI: payments & ledger, chat & video consultations, provider ranking, admi
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=IamAkshayKaushik&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAkshayKaushik&layout=compact&theme=github_dark&hide_border=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=IamAkshayKaushik&layout=compact&theme=github_dark&hide_border=true" />
 
 <br/><br/>
 
