@@ -1,10 +1,10 @@
- <div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Hey%2C+I'm+Akshay+Kaushik+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Python+%7C+Django+%7C+React+%7C+Next.js;Building+Ideas+Into+Digital+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=Hey%2C+I'm+Akshay+Kaushik+%F0%9F%91%8B;Full-Stack+Developer+%7C+GenAI+in+Production;Python+%7C+Django+%7C+React+%7C+Next.js;Shipping+AI-powered+marketplace+features" alt="Typing SVG" />
 
-### Full-Stack Developer | Python Enthusiast | Problem Solver
+### Full-Stack Developer | GenAI in Production | Problem Solver
 
-*Turning ideas into scalable, reliable and meaningful digital experiences.*
+*Turning ideas into scalable products - including AI search, agents, and real-time systems.*
 
 <br/>
 
@@ -20,18 +20,56 @@
 
 ## `$ whoami`
 
-I'm **Akshay Kaushik**, a Full-Stack Developer passionate about building web applications, exploring emerging technologies, and solving real-world problems through code.
+I'm **Akshay Kaushik**, a Full-Stack Developer who ships end-to-end web products - from Backend APIs and async workers to React/Next.js UIs - and production GenAI features.
 
-I enjoy working across the entire development lifecycle — from designing backend architecture and APIs to building interactive frontend experiences.
+I work across the full lifecycle: architecture, APIs, data models, background jobs, and interactive frontends.
 
-- **Interests:** Web Development, Machine Learning & Software Engineering.
-- **Currently exploring:** TensorFlow and Machine Learning.
-- **Backend:** Python, Django and Redis.
-- **Frontend:** JavaScript, React and Next.js.
-- **Collaboration:** Open to Django, React and Next.js projects.
-- **Ask me about:** Python, Django, JavaScript and Next.js.
+- **Interests:** Full-stack web, production GenAI, search & personalization, software engineering.
+- **Currently shipping:** Gemini / Vertex AI agents, semantic search, and event-driven recommendation systems.
+- **Backend:** Python, Django, FastAPI, Celery, Redis, PostgreSQL / MySQL.
+- **Frontend:** JavaScript, React, Next.js, Tailwind CSS.
+- **AI stack:** Google Gemini, Vertex AI embeddings, hybrid retrieval (dense + TF-IDF), LLM tool calling, prompt engineering.
+- **Ask me about:** Django, Next.js, LLM function calling, Agents, and building AI features that stay fast & grounded.
 
 📬 **Let's connect:** [akshaykaushik.dev](https://akshaykaushik.dev) · [Email](mailto:akshay.kaushik9@gmail.com)
+
+---
+
+## 🚀 Featured work - MrSolvo (marketplace GenAI)
+
+Production AI features on a services marketplace (consultations, bookings, payments).
+
+### 1. Agentic dashboard recommendations
+Built a **Gemini 2.5 Flash** recommendation agent with **function/tool calling** that suggests real services a client is likely to book next.
+
+- **Two-pass agent:** intent memory update → catalog tools (`search_offerings`, price tiers, provider offerings, ownership checks)
+- **Incremental memory:** saved activity summary + structured intent + event cursor (deltas only - not full history every run)
+- **Event-driven rebuilds:** orders, chat (EN/Hindi request gate), search, browse, bookmarks, ratings → debounced Celery jobs
+- **Grounded output:** model may only return catalog IDs from tools; server validates, pins unpaid/failed bookings, strips PII(Personally Identifiable Information)
+- **Fast UX:** dashboard **reads precomputed rows** - Gemini never runs on page load
+
+### 2. Hybrid semantic category search
+Shipped `search-categories` with **Vertex AI / Gemini embeddings** + **TF-IDF** + optional **LLM rerank**.
+
+- Offline index build (persisted), Celery rebuild on catalog changes
+- Query embedding cache + response LRU cache; retries for rate limits
+- Cost control: disabled dynamic thinking after it dominated Vertex spend
+- Dual auth: Vertex AI service account or Gemini Developer API
+
+### 3. Full-stack marketplace systems
+Beyond AI: payments & ledger, chat & video consultations, provider ranking, admin RBAC, dashboards, WhatsApp/email notifications - Django + Next.js + Celery.
+
+<details>
+<summary><b>Resume-style highlights</b></summary>
+
+<br/>
+
+- Production **tool-calling GenAI agent** for personalized service recommendations with Celery debounce and DB-backed memory  
+- **Hybrid semantic search** (Gemini embeddings + TF-IDF + optional LLM rerank) for category discovery  
+- Hardened LLM output with **grounding, validation, and PII scrubbing** so recommendations stay catalog-true and privacy-safe  
+- Event pipeline for personalization telemetry → async rebuild → low-latency dashboard reads  
+
+</details>
 
 ---
 
@@ -53,6 +91,10 @@ I enjoy working across the entire development lifecycle — from designing backe
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,selenium" />
 
+<br/>
+
+**AI & async:** Gemini · Vertex AI · Embeddings · Hybrid Search · Celery · Prompt Engineering · Tool Calling
+
 </div>
 
 ---
@@ -61,11 +103,11 @@ I enjoy working across the entire development lifecycle — from designing backe
 
 | Area | Current Focus |
 |---|---|
-| Backend Engineering | Building robust server-side applications with Django |
-| Databases | PostgreSQL and scalable database management |
-| Frontend Development | React, Redux and modern Next.js |
-| UI Development | Responsive interfaces with Tailwind CSS |
-| Machine Learning | Exploring TensorFlow and ML fundamentals |
+| Production GenAI | Gemini agents, tool calling, grounded recommendations, cost/latency tuning |
+| Search & ranking | Dense + sparse hybrid retrieval, LLM reranking, marketplace relevance |
+| Backend Engineering | Django APIs, Celery workers, Redis, reliable async pipelines |
+| Frontend Development | React, Redux, modern Next.js |
+| Databases | PostgreSQL / MySQL at product scale |
 
 ---
 
@@ -89,7 +131,7 @@ I enjoy working across the entire development lifecycle — from designing backe
 
 ### 💡 Build. Learn. Improve. Repeat.
 
-*Always curious. Always building.*
+*Shipping full-stack products - and GenAI that holds up in production.*
 
 [![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-Visit_Now-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akshaykaushik.dev)
 
