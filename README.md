@@ -24,28 +24,28 @@ I'm **Akshay Kaushik**, an AI Full-Stack Developer who ships end-to-end web prod
 
 I work across the full lifecycle: architecture, APIs, data models, background jobs, and interactive frontends.
 
-- **Interests:** Full-stack web, production GenAI, search & personalization, software engineering.
+- **Interests:** Full-stack web, production GenAI, search & personalization, payments, software engineering.
 - **Currently shipping:** Gemini / Vertex AI agents, semantic search, and event-driven recommendation systems.
 - **Backend:** Python, Django, FastAPI, Celery, Redis, PostgreSQL / MySQL.
 - **Frontend:** JavaScript, React, Next.js, Tailwind CSS.
-- **AI stack:** Google Gemini, Vertex AI embeddings, hybrid retrieval (dense + TF-IDF), LLM tool calling, prompt engineering.
-- **Ask me about:** Django, Next.js, LLM function calling, Agents, and building AI features that stay fast & grounded.
+- **AI stack:** Google Gemini, Vertex AI embeddings, hybrid retrieval (dense + TF-IDF), LLM tool calling, structured output, prompt engineering.
+- **Ask me about:** Django, Next.js, LLM function calling, agents, and building AI features that stay fast and grounded.
 
 📬 **Let's connect:** [akshaykaushik.dev](https://akshaykaushik.dev) · [Email](mailto:akshay.kaushik9@gmail.com)
 
 ---
 
-## 🚀 Featured work - MrSolvo (marketplace GenAI)
+## 🚀 Featured work - MrSolvo (services marketplace)
 
-Production AI features on a services marketplace (consultations, bookings, payments).
+Production marketplace: bookings, payments, live consultations, and GenAI on top.
 
 ### 1. Agentic dashboard recommendations
-Built a **Gemini 2.5 Flash** recommendation agent with **function/tool calling** that suggests real services a client is likely to book next.
+Built a **Gemini** recommendation agent with **function/tool calling** that suggests real services, a client is likely to book next.
 
 - **Two-pass agent:** intent memory update → catalog tools (`search_offerings`, price tiers, provider offerings, ownership checks)
 - **Incremental memory:** saved activity summary + structured intent + event cursor (deltas only - not full history every run)
 - **Event-driven rebuilds:** orders, chat (EN/Hindi request gate), search, browse, bookmarks, ratings → debounced Celery jobs
-- **Grounded output:** model may only return catalog IDs from tools; server validates, pins unpaid/failed bookings, strips PII(Personally Identifiable Information)
+- **Grounded output:** model may only return catalog IDs from tools; server validates, pins unpaid/failed bookings, strips PII(Personally Identifiable Information).
 - **Fast UX:** dashboard **reads precomputed rows** - Gemini never runs on page load
 
 ### 2. Hybrid semantic category search
@@ -56,8 +56,24 @@ Shipped `search-categories` with **Vertex AI / Gemini embeddings** + **TF-IDF** 
 - Cost control: disabled dynamic thinking after it dominated Vertex spend
 - Dual auth: Vertex AI service account or Gemini Developer API
 
-### 3. Full-stack marketplace systems
-Beyond AI: payments & ledger, chat & video consultations, provider ranking, admin RBAC, dashboards, WhatsApp/email notifications.
+### 3. Payments, ranking, and live calls
+The marketplace systems around the AI.
+
+- **Ledger and refunds:** PhonePe callbacks, commission and GST snapshots frozen at payment time, milestone invoices, and a refund lifecycle (orders, milestones, Pro-tag) with admin OTP before a gateway refund
+- **Provider ranking:** freshness buckets, quality points, Pro placement, and admin boosters, shared across category, specialization, and region listings
+- **Video and voice:** backend-issued Agora tokens, presence heartbeat, and a one-shot in-app ticker (WhatsApp only if the other person is offline)
+- **Admin audit:** before/after JSON per change, transactional undo of a row or a whole request, and the revert itself is logged
+
+---
+
+## 🚀 Featured work - ATS (resume matcher)
+
+FastAPI + Next.js pipeline that scores many resumes against many job descriptions in one run.
+
+- Parses PDF, DOCX, and TXT
+- Gemini rewrites each JD and resume into dense matching text and strips contact details from resumes
+- Structured result per candidate: best job, score 0–100, pros, cons, and hire / no-hire
+- Background job queue, then CSV export
 
 ---
 
@@ -69,11 +85,11 @@ Beyond AI: payments & ledger, chat & video consultations, provider ranking, admi
 
 ### Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=python,javascript,django,react,redux,nextjs,html,tailwindcss,wordpress" />
+<img src="https://skillicons.dev/icons?i=python,javascript,django,fastapi,react,redux,nextjs,html,tailwindcss" />
 
 ### Databases, Messaging & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,rabbitmq,kafka,docker,cloudflare,workers" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,rabbitmq,docker,cloudflare" />
 
 ### Development & Testing Tools
 
@@ -81,7 +97,7 @@ Beyond AI: payments & ledger, chat & video consultations, provider ranking, admi
 
 <br/>
 
-**AI & async:** Gemini · Vertex AI · Embeddings · Hybrid Search · Celery · Prompt Engineering · Tool Calling
+**AI & async:** Gemini · Vertex AI · Embeddings · Hybrid Search · Structured Output · Celery · Tool Calling
 
 </div>
 
@@ -93,9 +109,9 @@ Beyond AI: payments & ledger, chat & video consultations, provider ranking, admi
 |---|---|
 | Production GenAI | Gemini agents, tool calling, grounded recommendations, cost/latency tuning |
 | Search & ranking | Dense + sparse hybrid retrieval, LLM reranking, marketplace relevance |
-| Backend Engineering | Django APIs, Celery workers, Redis, reliable async pipelines |
+| Payments | Gateway callbacks, ledger snapshots, refunds |
+| Backend Engineering | Django and FastAPI, Celery workers, Redis, reliable async pipelines |
 | Frontend Development | React, Redux, modern Next.js |
-| Databases | PostgreSQL / MySQL at product scale |
 
 ---
 
